@@ -1,0 +1,64 @@
+/**{
+	margin: 0;
+	padding: 0;
+}
+
+html,body{
+	overflow-x: hidden;
+	color: white;
+}
+
+.screen{
+	width: 100vw;
+	height: 100vh;
+}
+
+.red{
+	background-color: red;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.green{
+	background-color: green;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.block{
+	background-color: grey;
+	width: 400px;
+	margin: 0 auto;
+	height: 600px;
+	margin-bottom: 40px;
+}*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html,body{
+	overflow-x: hidden;
+}
+
+.screen{
+	width: 100vw;
+	height: 100vh
+}
+
+body{
+	margin-top: 50px;
+}
+
+.block{
+	background-color: grey;
+	width: 400px;
+	margin: 0 auto;
+	height: 600px;
+	margin-bottom: 40px;
+}
